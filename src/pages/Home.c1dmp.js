@@ -590,7 +590,7 @@ $w.onReady(function () {
         }
     }
 
-    // ===== MÓDULO 8: BARRA DE PROGRESO ANIMADA =====
+    // ===== MÓDULO 8: BARRA D E PROGRESO ANIMADA =====
     class ProgressBarManager {
         constructor(uiManager) {
             console.log('📊 Inicializando barra de progreso...');
